@@ -1,8 +1,0 @@
-# Macro gps
-/gps/particle   gamma
-/gps/direction  0 0 1
-/gps/position   0 0 0 cm
-/gps/ene/type   Gauss
-/gps/energy     662 keV
-/gps/ene/sigma  500 keV
-/run/beamOn     1000
