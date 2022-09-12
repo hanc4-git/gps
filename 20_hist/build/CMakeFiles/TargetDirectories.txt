@@ -1,8 +1,0 @@
-/home/charles/data/gps/20_hist/build/CMakeFiles/install/strip.dir
-/home/charles/data/gps/20_hist/build/CMakeFiles/install/local.dir
-/home/charles/data/gps/20_hist/build/CMakeFiles/install.dir
-/home/charles/data/gps/20_hist/build/CMakeFiles/list_install_components.dir
-/home/charles/data/gps/20_hist/build/CMakeFiles/rebuild_cache.dir
-/home/charles/data/gps/20_hist/build/CMakeFiles/edit_cache.dir
-/home/charles/data/gps/20_hist/build/CMakeFiles/PROJECT_B1.dir
-/home/charles/data/gps/20_hist/build/CMakeFiles/example.dir
